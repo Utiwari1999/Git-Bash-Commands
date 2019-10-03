@@ -1,0 +1,10 @@
+cd Desktop
+git clone https://github.com/Utiwari1999/CC-Website
+cd CC-Website
+After Changes in git folder
+
+git add File Name
+for name with spaces use git add 'file name.jpg' 
+git commit
+git commit -m "Message to be Displayed"
+git push
