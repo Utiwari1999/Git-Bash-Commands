@@ -1,5 +1,12 @@
 cd Desktop
 git clone https://github.com/Utiwari1999/CC-Website
+
+Cloning to a specific folder:
+git clone <repo> <folderName>
+
+Cloning a specific branch of a repository:
+git clone -branch <branchName> <repo>
+
 cd CC-Website
 After Changes in git folder
 
@@ -16,3 +23,6 @@ Create and check out a new branch named <branch>.
 Drop the -b flag to checkout an existing branch.
 git merge <branch>
 Merge <branch> into the current branch.
+
+
+
